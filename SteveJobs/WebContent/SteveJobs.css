@@ -1,0 +1,37 @@
+@charset "UTF-8";
+
+html{
+	background-color:cyan;
+}
+
+h1{
+	text-align:center;
+}
+
+h1.grande:first-letter{
+	font-size:80px;
+}
+
+h2{
+	display:inline;
+}
+
+h2.sobre:hover{
+	color:blue;
+}
+
+nav{
+	text-align:center;
+}
+
+p.red:first-line{
+	color:red;
+}
+
+div{
+	align:rigth;
+}
+
+img{
+	float:right;
+}
